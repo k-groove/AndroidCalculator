@@ -1,11 +1,5 @@
 package com.example.androidbettercalculator;
-/*
- * Course: CS 2302
- * Section: 02
- * Name: Barry Oliver
- * Professor: Alan Shaw
- * Assignment #: Homework 08
- */
+
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
