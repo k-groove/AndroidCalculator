@@ -1,12 +1,6 @@
 package com.example.androidbettercalculator;
 
-/*
- * Course: CS 2302
- * Section: 02
- * Name: Barry Oliver
- * Professor: Alan Shaw
- * Assignment #: Homework 08
- */
+
 import java.math.BigDecimal;
 import java.math.MathContext;
 import java.math.RoundingMode;
